@@ -16,7 +16,7 @@ import java.util.Scanner;
         this.numeroDoDia = numeroDoDia;
     }*/
 
- public enum MesAno {
+ enum MesAno {
     JANEIRO(31),
     FEVEREIRO(28), // 29 dias se for ano bissexto
     MARCO(31),
