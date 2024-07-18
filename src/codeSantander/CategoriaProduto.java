@@ -15,14 +15,4 @@ public enum CategoriaProduto {
 	  }
       
 }
- /* 
- * public int CategoriaProduto() {
-    return switch (this) {
-    case ELETRONICO-> 1;
-    case  VESTUARIO-> 2;
-    case ALIMENTO-> 3;
-    break;
-    }
-    return null;
-}*/
-
+ 
